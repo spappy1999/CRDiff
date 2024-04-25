@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\spappas\\OneDrive - Tesco\\Documents - TESCO IT Dept\\GitHubProjects\\CRDiff\\CRSerializer\\CRSerializer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\spappas\\OneDrive - Tesco\\Documents - TESCO IT Dept\\GitHubProjects\\CRDiff\\CRSerializer\\CRSerializer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\spappas\\OneDrive - Tesco\\Documents - TESCO IT Dept\\GitHubProjects\\CRDiff\\CRSerializer\\CRSerializer.csproj",
+        "projectName": "CRSerializer",
+        "projectPath": "C:\\Users\\spappas\\OneDrive - Tesco\\Documents - TESCO IT Dept\\GitHubProjects\\CRDiff\\CRSerializer\\CRSerializer.csproj",
+        "packagesPath": "C:\\Users\\spappas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\spappas\\OneDrive - Tesco\\Documents - TESCO IT Dept\\GitHubProjects\\CRDiff\\CRSerializer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\spappas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "CrystalDecisions.CrystalReports.Engine": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "CrystalDecisions.Shared": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "CrystalReports.ReportAppServer.ClientDoc": {
+              "target": "Package",
+              "version": "[13.0.4003, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Unclassified.NetRevisionTask": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

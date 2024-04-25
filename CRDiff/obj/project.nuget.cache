@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLZHrssiac0mLTON5ktT3SeOfbutpYbqxkdRk9ZgpFBaw58MPWOjkdUhwufoJ6HeHsLupeCb/6Bt/FHhvVEENQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spappas\\OneDrive - Tesco\\Documents - TESCO IT Dept\\GitHubProjects\\CRDiff\\CRDiff\\CRDiff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spappas\\.nuget\\packages\\commandlineparser\\2.5.0\\commandlineparser.2.5.0.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystaldecisions.crystalreports.engine\\1.0.0\\crystaldecisions.crystalreports.engine.1.0.0.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystaldecisions.shared\\1.0.0\\crystaldecisions.shared.1.0.0.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.engine\\13.0.3501\\crystalreports.engine.13.0.3501.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.clientdoc\\13.0.4003\\crystalreports.reportappserver.clientdoc.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.commlayer\\13.0.4003\\crystalreports.reportappserver.commlayer.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.commoncontrols\\13.0.4003\\crystalreports.reportappserver.commoncontrols.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.commonobjectmodel\\13.0.4003\\crystalreports.reportappserver.commonobjectmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.controllers\\13.0.4003\\crystalreports.reportappserver.controllers.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.cubedefmodel\\13.0.4003\\crystalreports.reportappserver.cubedefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.datadefmodel\\13.0.4003\\crystalreports.reportappserver.datadefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.datasetconversion\\13.0.3501\\crystalreports.reportappserver.datasetconversion.13.0.3501.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.objectfactory\\13.0.3501\\crystalreports.reportappserver.objectfactory.13.0.3501.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.prompting\\13.0.3501\\crystalreports.reportappserver.prompting.13.0.3501.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.reportdefmodel\\13.0.4003\\crystalreports.reportappserver.reportdefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.xmlserialize\\13.0.3501\\crystalreports.reportappserver.xmlserialize.13.0.3501.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.shared\\13.0.3501\\crystalreports.shared.13.0.3501.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\log4net\\1.2.10\\log4net.1.2.10.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\unclassified.netrevisiontask\\0.3.0\\unclassified.netrevisiontask.0.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Newtonsoft.Json from 12.0.3 to 12.0.2. Reference the package directly from the project to select a different version. \r\n CRDiff -> CRSerializer -> Newtonsoft.Json (>= 12.0.3) \r\n CRDiff -> Newtonsoft.Json (>= 12.0.2)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win",
+        ".NETFramework,Version=v4.6.1/win-x64",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}

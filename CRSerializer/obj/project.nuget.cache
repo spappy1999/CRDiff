@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZ9wGwAOQfVFqZf3kmnjc57Zm9/Bfi4PxjyLjai4RvLNXRtc4hmTnEjGlelaBZwQdwTCo5oDbyIy3WdR46k+Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spappas\\OneDrive - Tesco\\Documents - TESCO IT Dept\\GitHubProjects\\CRDiff\\CRSerializer\\CRSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spappas\\.nuget\\packages\\crystaldecisions.crystalreports.engine\\1.0.0\\crystaldecisions.crystalreports.engine.1.0.0.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystaldecisions.shared\\1.0.0\\crystaldecisions.shared.1.0.0.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.clientdoc\\13.0.4003\\crystalreports.reportappserver.clientdoc.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.commlayer\\13.0.4003\\crystalreports.reportappserver.commlayer.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.commoncontrols\\13.0.4003\\crystalreports.reportappserver.commoncontrols.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.commonobjectmodel\\13.0.4003\\crystalreports.reportappserver.commonobjectmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.controllers\\13.0.4003\\crystalreports.reportappserver.controllers.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.cubedefmodel\\13.0.4003\\crystalreports.reportappserver.cubedefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.datadefmodel\\13.0.4003\\crystalreports.reportappserver.datadefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\crystalreports.reportappserver.reportdefmodel\\13.0.4003\\crystalreports.reportappserver.reportdefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\spappas\\.nuget\\packages\\unclassified.netrevisiontask\\0.3.0\\unclassified.netrevisiontask.0.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

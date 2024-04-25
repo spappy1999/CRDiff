@@ -108,9 +108,9 @@ namespace CRSerializer
         {
             jw.WritePropertyName("PrintOptions");
             jw.WriteStartObject();
-            jw.WriteProperty("NoPrinter", printOptions.NoPrinter);
+            //jw.WriteProperty("NoPrinter", printOptions.NoPrinter);
             jw.WriteProperty("PrinterName", printOptions.PrinterName);
-            jw.WriteProperty("SavedPrinterName", printOptions.SavedPrinterName);
+            //jw.WriteProperty("SavedPrinterName", printOptions.SavedPrinterName);
             jw.WriteProperty("PrinterDuplex", printOptions.PrinterDuplex.ToString());
             jw.WriteProperty("PaperOrientation", printOptions.PaperOrientation.ToString());
             jw.WriteProperty("PaperSize", printOptions.PaperSize.ToString());
